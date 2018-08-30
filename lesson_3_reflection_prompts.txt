@@ -26,4 +26,5 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When changes are going to be big enough that would impact the original architecture in master, when the feature needs a great amount of time to develop and maybe affected by other's latest changes, or when there are multiple people working on the same set of classes, it is better to make changes in a separate branch.
+    To make direct change in master make it quickly avaialbe to everyone and without the need of resolving conflicts.
